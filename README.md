@@ -2,7 +2,7 @@
 
 A randomized stream of product-placement clips extracted from films.
 
-Live at **placement.paul.place**.
+Live at **paul.tube/placement**.
 
 ## What it is
 
